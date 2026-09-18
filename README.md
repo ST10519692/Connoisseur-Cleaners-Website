@@ -23,4 +23,4 @@ This website aims to promote weekly specials and promotions and to attract custo
   # PART 1 DETAILS
   I was required to create two separate proposals for local community businesses and make website proposals. I chose a TashBless Pharmacy and Conniosseur Cleaners and created proposals for each and on the 11th August 2026, I presented my Pharmacy prosposal and it was not approved however I redeemed myself with the Conniosseur Cleaners proposal on the 17th of August. An HTML file for my website was created which included a home, services, about us, contact with locations pages
 # SITEMAP
-  
+![image alt](https://raw.githubusercontent.com/ST10519692/Connoisseur-Cleaners-Website/b31a13a7801f3791d76c49ab3096fe6204bd3e7b/SITEMAP.png?token=CO5JJH4FPUHQTCNA5SJEH2TKVWDM6)  
