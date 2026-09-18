@@ -32,8 +32,10 @@ This website aims to promote weekly specials and promotions and to attract custo
 1. BroCode. (2024). How to create CSS navigation bar in 6 minutes. Available at: [Link text](https://www.youtube.com/f3uC5h6LIY). (Accessed: 16 September 2026)
 2. BroCode. (2024). Learn HTML forms in 10+ minutes. Available at: [Link txt](https://youtu.be/zIN54IhJtQU?si=). (Accessed: 16 September 2026)
 3. BroCode. (2024). Learn HTML headers and footers in 5 minutes. Available at: [Link text](https://youtu.be/JNFdCgmMkPK?3) (Accessed:12 August 2026)
-4. GlobalTechFix. (2024). How to Add Image GitHub Readme| Add Screenshot IN GitHub READme.md File. Available at: [Link text](https://www.youtube.com/watch?v=IS65x). (Accessed: 16 September 2026) 
-5. Gloomaps. For SiteMap creation. Available at: [Link text](https://www.gloomaps.com/4f6TylzJf).(Accessed: 18 September 2026)
-6. Just Krister. (2026). How To Create A Readme File on GitHub (Tutorial 2026). Available at: [Link text](https://www.youtube.com/watch?v=sL5JAGzKB0Q).(Accessed: 18 September 2026)
+4. GlobalTechFix. (2024). How to Add Image GitHub Readme| Add Screenshot IN GitHub READme.md File. Available at: [Link text](https://www.youtube.com/watch?v=IS65x). (Accessed: 16 September 2026)
+  # GitHub REPOSITORY LINK
+  [Link text](https://github.com/ST10519692/Connoisseur-Cleaners-Website) 
+6. Gloomaps. For SiteMap creation. Available at: [Link text](https://www.gloomaps.com/4f6TylzJf).(Accessed: 18 September 2026)
+7. Just Krister. (2026). How To Create A Readme File on GitHub (Tutorial 2026). Available at: [Link text](https://www.youtube.com/watch?v=sL5JAGzKB0Q).(Accessed: 18 September 2026)
 # ACKNOWLEDGEMENT
 I acknowlegde the use of Meta AI for assistance and guidance on structuring this ReadME.md file, including explanations of subheadings. AI was used only for formatting assistance and clarfication of assessment requirements. All website content, codes and design decisions for Conniosseur Cleaners are my own.
