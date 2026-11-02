@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://ST10519692.github.io/Connoisseur-Cleaners-Website
