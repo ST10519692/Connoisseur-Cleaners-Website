@@ -223,8 +223,10 @@ main{
     gap: 50px;
     box-shadow: 0 4px 15px rgb(0, 0, 0, 0.1);
     background: navy;
-    width: 500px;
-    height: 200px;
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    min-height: 200px;
 }
 .p{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -426,5 +428,19 @@ h2{
     }
     .prices p, .price div, .price h2 .price h3 .price h4{
         white-space: normal !important;
+    }
+    .about-box{
+        height: auto !important;
+        width: 100% !important;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+    .about-card{
+        width: 100% !important;
+        max-width: 100% !important;
+        height: auto !important;
+        min-height:  auto !important;
+        overflow: visible !important;
     }
 }
