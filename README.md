@@ -38,9 +38,14 @@ This website aims to promote weekly specials and promotions and to attract custo
 1. BroCode. (2024). How to create CSS navigation bar in 6 minutes. Available at:https://www.youtube.com/f3uC5h6LIY. (Accessed: 16 September 2026)
 2. BroCode. (2024). Learn HTML forms in 10+ minutes. Available at:https://youtu.be/zIN54IhJtQU?si=. (Accessed: 16 September 2026)
 3. BroCode. (2024). Learn HTML headers and footers in 5 minutes. Available at:https://youtu.be/JNFdCgmMkPK?3 (Accessed:12 August 2026)
-4. GlobalTechFix. (2024). How to Add Image GitHub Readme| Add Screenshot IN GitHub READme.md File. Available at: https://www.youtube.com/watch?v=IS65x. (Accessed: 16 September 2026)
-5. Gloomaps. For SiteMap creation. Available at:https://www.gloomaps.com/4f6TylzJf.(Accessed: 18 September 2026)
-6. Just Krister. (2026). How To Create A Readme File on GitHub (Tutorial 2026). Available at:https://www.youtube.com/watch?v=sL5JAGzKB0Q.(Accessed: 18 September 2026)
+4. Coding 2 Go(2024). Learn CSS Flexbox in 20 minutes(Course) Available at:https://www.youtube.com/watch?v=wsTv9y931o8 (Accessed: 28 October 2026)
+5. dcode(2021). How to create a Carousel (Basic)- HTML, CSS & Javascript web design Tutorial. Available at:https://www.youtube.com/watch?v=XtFlpgaLbZ4 (30 October 2026)
+6. Florin Pop (2020). Create a modal (Popup) with HTML, CSS and Javascript
+7. GlobalTechFix. (2024). How to Add Image GitHub Readme| Add Screenshot IN GitHub READme.md File. Available at: https://www.youtube.com/watch?v=IS65x. (Accessed: 16 September 2026)
+8. Gloomaps. For SiteMap creation. Available at:https://www.gloomaps.com/4f6TylzJf.(Accessed: 18 September 2026)
+9. Just Krister. (2026). How To Create A Readme File on GitHub (Tutorial 2026). Available at:https://www.youtube.com/watch?v=sL5JAGzKB0Q.(Accessed: 18 September 2026)
+10. Leaflet(no date) Leaflet Tutorials.Avaiable at:https://leafletjs.com/examples.html (Accessed: 01 November 2026)
+11. Web Dev Simpliflied (2019). Javascript Form Vaildation. Available at:https://www.youtube.com/watch?v=In0nB0ABaUk (Accessed: 1 November 2026)
 # ACKNOWLEDGEMENT
 I acknowlegde the use of Meta AI for assistance and guidance on structuring this ReadME.md file, including explanations of subheadings. AI was used only for formatting assistance and clarfication of assessment requirements. All website content, codes and design decisions for Conniosseur Cleaners are my own.
 https://github.com/ST10519692/Connoisseur-Cleaners-Website.git 
