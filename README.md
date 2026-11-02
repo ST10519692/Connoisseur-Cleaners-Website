@@ -35,6 +35,9 @@ This website aims to promote weekly specials and promotions and to attract custo
  # PART 3 DETAILS 
  I changed font-family and font-size for most of my website pages to create a better readablity. I added Javascript to the slideshow i created on my home page, modals made on my sevices page and form validation on my contact page. I added interactive maps and learnt and used DOM manipulation in the process.
  ## DEFINE SEO AND EXPLAIN ITS PURPOSE IN WEB DEVELOPMENT
+ ## EXPLAIN HOW SEO PRACTICES CAN IMPROVE USER EXPERIENCE(UX) AND WEBSITE
+ ## DISCUSS THE BENEFITS OF IMPLEMENTING SEO ON A WEBSITE
+ ## EXPLAIN AND DEMOSTRATE SPECIFIC SEO TECHNIQUES USING HTML, CSS AND JAVASCRIPT WHERE APPLICABLE 
  
 # REFERENCES:
 1. BroCode. (2024). How to create CSS navigation bar in 6 minutes. Available at:https://www.youtube.com/f3uC5h6LIY. (Accessed: 16 September 2026)
