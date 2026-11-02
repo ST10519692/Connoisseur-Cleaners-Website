@@ -35,22 +35,37 @@ This website aims to promote weekly specials and promotions and to attract custo
  # PART 3 DETAILS 
  I changed font-family and font-size for most of my website pages to create a better readablity. I added Javascript to the slideshow i created on my home page, modals made on my sevices page and form validation on my contact page. I added interactive maps and learnt and used DOM manipulation in the process.
  ## DEFINE SEO AND EXPLAIN ITS PURPOSE IN WEB DEVELOPMENT
+ Search Engine Optimization is the process of making a website to be at the top of a Google search. It's purpose in wed development is to create exposure for the website in the digital market. The website can promote the business's brand. (Turama, 2022)
+ 
  ## EXPLAIN HOW SEO PRACTICES CAN IMPROVE USER EXPERIENCE(UX) AND WEBSITE
+ SEO looks how the user interacts with a website and the UX it provides. Web Developers can use SEO to improve UX on a website. The page speed on a website can affect UX in the website.(Bruton, 2022)
+ 
  ## DISCUSS THE BENEFITS OF IMPLEMENTING SEO ON A WEBSITE
+ SEO requires less effort unlike social platform advertizing and it is a long term strategy. It is cost effective as you do not need to spend anything on it. When user search for services nearby a proper SEO can push the website to the top of the search result increasing local sales. (Turama, 2022)
+ 
  ## EXPLAIN AND DEMOSTRATE SPECIFIC SEO TECHNIQUES USING HTML, CSS AND JAVASCRIPT WHERE APPLICABLE 
+ ### HTML:
+ Using h1 tages for the main topic and then h2-h6 for the  rest of the information. Having self-descriptive meta tags .
+ ### CSS:
+ Have a layout that loads dynamically with reserved aspect ratios on CSS
+ ### Javascript:
+ Using schema markup to give search engines clues and DOM manipulation
  
 # REFERENCES:
 1. BroCode. (2024). How to create CSS navigation bar in 6 minutes. Available at:https://www.youtube.com/f3uC5h6LIY. (Accessed: 16 September 2026)
 2. BroCode. (2024). Learn HTML forms in 10+ minutes. Available at:https://youtu.be/zIN54IhJtQU?si=. (Accessed: 16 September 2026)
 3. BroCode. (2024). Learn HTML headers and footers in 5 minutes. Available at:https://youtu.be/JNFdCgmMkPK?3 (Accessed:12 August 2026)
-4. Coding 2 Go(2024). Learn CSS Flexbox in 20 minutes(Course) Available at:https://www.youtube.com/watch?v=wsTv9y931o8 (Accessed: 28 October 2026)
-5. dcode(2021). How to create a Carousel (Basic)- HTML, CSS & Javascript web design Tutorial. Available at:https://www.youtube.com/watch?v=XtFlpgaLbZ4 (30 October 2026)
-6. Florin Pop (2020). Create a modal (Popup) with HTML, CSS and Javascript
-7. GlobalTechFix. (2024). How to Add Image GitHub Readme| Add Screenshot IN GitHub READme.md File. Available at: https://www.youtube.com/watch?v=IS65x. (Accessed: 16 September 2026)
-8. Gloomaps. For SiteMap creation. Available at:https://www.gloomaps.com/4f6TylzJf.(Accessed: 18 September 2026)
-9. Just Krister. (2026). How To Create A Readme File on GitHub (Tutorial 2026). Available at:https://www.youtube.com/watch?v=sL5JAGzKB0Q.(Accessed: 18 September 2026)
-10. Leaflet(no date) Leaflet Tutorials.Avaiable at:https://leafletjs.com/examples.html (Accessed: 01 November 2026)
-11. Web Dev Simpliflied (2019). Javascript Form Vaildation. Available at:https://www.youtube.com/watch?v=In0nB0ABaUk (Accessed: 1 November 2026)
+4. Bruton, L.(2022). The importance of UX and SEO and 5 factors to focus on. Available at:https://www.uxdesigninstitute.com/blog/ux-and-seo/ (Accessed: 2 November 2026)
+5. Coding 2 Go(2024). Learn CSS Flexbox in 20 minutes(Course) Available at:https://www.youtube.com/watch?v=wsTv9y931o8 (Accessed: 28 October 2026)
+6. dcode(2021). How to create a Carousel (Basic)- HTML, CSS & Javascript web design Tutorial. Available at:https://www.youtube.com/watch?v=XtFlpgaLbZ4 (30 October 2026)
+7. Florin Pop (2020). Create a modal (Popup) with HTML, CSS and Javascript
+8. GlobalTechFix. (2024). How to Add Image GitHub Readme| Add Screenshot IN GitHub READme.md File. Available at: https://www.youtube.com/watch?v=IS65x. (Accessed: 16 September 2026)
+9. Gloomaps. For SiteMap creation. Available at:https://www.gloomaps.com/4f6TylzJf.(Accessed: 18 September 2026)
+10. Just Krister. (2026). How To Create A Readme File on GitHub (Tutorial 2026). Available at:https://www.youtube.com/watch?v=sL5JAGzKB0Q.(Accessed: 18 September 2026)
+11. Leaflet(no date) Leaflet Tutorials.Avaiable at:https://leafletjs.com/examples.html (Accessed: 01 November 2026)
+12. Turama, D.O, (2022) SEO and Web Development. Why is it important?. Available at:https://codeinstitute.net/global/blog/seo-and-web-development-why-is-it-important/
+ (Accessed: 01 November 2026)
+13. Web Dev Simpliflied (2019). Javascript Form Vaildation. Available at:https://www.youtube.com/watch?v=In0nB0ABaUk (Accessed: 1 November 2026)
 # ACKNOWLEDGEMENT
 I acknowlegde the use of Meta AI for assistance and guidance on structuring this ReadME.md file, including explanations of subheadings. AI was used only for formatting assistance and clarfication of assessment requirements. All website content, codes and design decisions for Conniosseur Cleaners are my own.
 https://github.com/ST10519692/Connoisseur-Cleaners-Website.git 
