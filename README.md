@@ -34,6 +34,8 @@ This website aims to promote weekly specials and promotions and to attract custo
  I was required to add styles to my website. I used the lightblue as my background colour, added a navigation bar, also added pseudo class to my button. I fixed my locations and worked from the feedback provided.
  # PART 3 DETAILS 
  I changed font-family and font-size for most of my website pages to create a better readablity. I added Javascript to the slideshow i created on my home page, modals made on my sevices page and form validation on my contact page. I added interactive maps and learnt and used DOM manipulation in the process.
+ ## DEFINE SEO AND EXPLAIN ITS PURPOSE IN WEB DEVELOPMENT
+ 
 # REFERENCES:
 1. BroCode. (2024). How to create CSS navigation bar in 6 minutes. Available at:https://www.youtube.com/f3uC5h6LIY. (Accessed: 16 September 2026)
 2. BroCode. (2024). Learn HTML forms in 10+ minutes. Available at:https://youtu.be/zIN54IhJtQU?si=. (Accessed: 16 September 2026)
