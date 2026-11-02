@@ -28,15 +28,19 @@ This website aims to promote weekly specials and promotions and to attract custo
 16 September 2026- I added a contact form on my html contact page
 17 September 2026- I replaced the price list photo with a written price list code 
 18 September 2026- Changed proposed background colour and no gold accents were used 
+26 October 2026 - I changed my color palette making the usage of more gold accents, navy as my primary color and grey as secondary
+27 October 2026 - Changed the links of Contact Us to directly go to the business's number and the enquire button to the enquire form.
+# PART 2 DETAILS
+ I was required to add styles to my website. I used the lightblue as my background colour, added a navigation bar, also added pseudo class to my button. I fixed my locations and worked from the feedback provided.
+ # PART 3 DETAILS 
+ I changed font-family and font-size for most of my website pages to create a better readablity. I added Javascript to the slideshow i created on my home page, modals made on my sevices page and form validation on my contact page. I added interactive maps and learnt and used DOM manipulation in the process.
 # REFERENCES:
-1. BroCode. (2024). How to create CSS navigation bar in 6 minutes. Available at: [Link text](https://www.youtube.com/f3uC5h6LIY). (Accessed: 16 September 2026)
-2. BroCode. (2024). Learn HTML forms in 10+ minutes. Available at: [Link txt](https://youtu.be/zIN54IhJtQU?si=). (Accessed: 16 September 2026)
-3. BroCode. (2024). Learn HTML headers and footers in 5 minutes. Available at: [Link text](https://youtu.be/JNFdCgmMkPK?3) (Accessed:12 August 2026)
-4. GlobalTechFix. (2024). How to Add Image GitHub Readme| Add Screenshot IN GitHub READme.md File. Available at: [Link text](https://www.youtube.com/watch?v=IS65x). (Accessed: 16 September 2026)
-  # GitHub REPOSITORY LINK
-  [Link text](https://github.com/ST10519692/Connoisseur-Cleaners-Website) 
-6. Gloomaps. For SiteMap creation. Available at: [Link text](https://www.gloomaps.com/4f6TylzJf).(Accessed: 18 September 2026)
-7. Just Krister. (2026). How To Create A Readme File on GitHub (Tutorial 2026). Available at: [Link text](https://www.youtube.com/watch?v=sL5JAGzKB0Q).(Accessed: 18 September 2026)
+1. BroCode. (2024). How to create CSS navigation bar in 6 minutes. Available at:https://www.youtube.com/f3uC5h6LIY. (Accessed: 16 September 2026)
+2. BroCode. (2024). Learn HTML forms in 10+ minutes. Available at:https://youtu.be/zIN54IhJtQU?si=. (Accessed: 16 September 2026)
+3. BroCode. (2024). Learn HTML headers and footers in 5 minutes. Available at:https://youtu.be/JNFdCgmMkPK?3 (Accessed:12 August 2026)
+4. GlobalTechFix. (2024). How to Add Image GitHub Readme| Add Screenshot IN GitHub READme.md File. Available at: https://www.youtube.com/watch?v=IS65x. (Accessed: 16 September 2026)
+5. Gloomaps. For SiteMap creation. Available at:https://www.gloomaps.com/4f6TylzJf.(Accessed: 18 September 2026)
+6. Just Krister. (2026). How To Create A Readme File on GitHub (Tutorial 2026). Available at:https://www.youtube.com/watch?v=sL5JAGzKB0Q.(Accessed: 18 September 2026)
 # ACKNOWLEDGEMENT
 I acknowlegde the use of Meta AI for assistance and guidance on structuring this ReadME.md file, including explanations of subheadings. AI was used only for formatting assistance and clarfication of assessment requirements. All website content, codes and design decisions for Conniosseur Cleaners are my own.
 https://github.com/ST10519692/Connoisseur-Cleaners-Website.git 
